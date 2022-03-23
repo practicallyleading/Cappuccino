@@ -10,6 +10,10 @@
 *.userosscache
 *.sln.docstates
 
+# Secrets
+.env
+appsettings.Development.json
+
 # Mac users
 .DS_Store
 
